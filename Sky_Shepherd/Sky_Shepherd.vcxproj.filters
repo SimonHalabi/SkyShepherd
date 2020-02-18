@@ -15,16 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Source.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="Sheep.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Socket.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Socket2.cpp">
+    <ClCompile Include="Source1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

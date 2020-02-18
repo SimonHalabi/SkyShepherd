@@ -118,9 +118,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Sheep.cpp" />
-    <ClCompile Include="Socket.cpp" />
-    <ClCompile Include="Socket2.cpp" />
-    <ClCompile Include="Source.cpp" />
+    <ClCompile Include="Source1.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Sheep.h" />

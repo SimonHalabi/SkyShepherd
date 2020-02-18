@@ -1,0 +1,3 @@
+﻿  SkyShepherdServer.cpp
+C:\Users\Simon\Documents\SkyShepherd\SkyShepherdServer\SkyShepherdServer.cpp(57,7): warning C4101: 'str': unreferenced local variable
+  SkyShepherdServer.vcxproj -> C:\Users\Simon\Documents\SkyShepherd\x64\Debug\SkyShepherdServer.exe
